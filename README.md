@@ -1,5 +1,5 @@
-yelp_gp
-==============================
+Gaussian Process Differentiation
+================================
 
 Finding Inflection Points in Timeseries Data
 
