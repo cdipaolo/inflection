@@ -1,0 +1,15 @@
+./data
+├── external
+├── interim
+├── processed
+│   ├── reviews.csv
+│   └── vegas_stars.csv
+├── raw
+│   ├── yelp_academic_dataset_business.json
+│   ├── yelp_academic_dataset_checkin.json
+│   ├── yelp_academic_dataset_review.json
+│   ├── yelp_academic_dataset_tip.json
+│   └── yelp_academic_dataset_user.json
+└── yelp.db
+
+4 directories, 8 files
